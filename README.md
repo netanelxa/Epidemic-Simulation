@@ -1,4 +1,4 @@
-# Infection-rate-model
+# Epidemic stimuliation
 Stimulate an epdiemic infection rate using cellular automata model 
 
 run main.py via pycharm or terminal
