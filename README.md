@@ -1,4 +1,4 @@
-# Epidemic simuliation
+# Epidemic simulation
 Stimulate an epdiemic infection rate using cellular automata model 
 
 run main.py via pycharm or terminal
